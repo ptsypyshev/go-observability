@@ -1,4 +1,4 @@
-module github/ptsypyshev/go-observability/lesson01
+module github.com/ptsypyshev/go-observability/lesson01
 
 go 1.18
 

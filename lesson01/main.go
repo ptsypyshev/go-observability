@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github/ptsypyshev/go-observability/lesson01/middleware"
+	"github.com/ptsypyshev/go-observability/lesson01/middleware"
 	"html/template"
 	"net/http"
 	"path"
