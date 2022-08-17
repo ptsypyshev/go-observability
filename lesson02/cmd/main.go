@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github/ptsypyshev/go-observability/lesson02/handler"
-	"github/ptsypyshev/go-observability/lesson02/l"
-	"github/ptsypyshev/go-observability/lesson02/s"
-	"github/ptsypyshev/go-observability/lesson02/store"
+	"github.com/ptsypyshev/go-observability/lesson02/handler"
+	"github.com/ptsypyshev/go-observability/lesson02/l"
+	"github.com/ptsypyshev/go-observability/lesson02/s"
+	"github.com/ptsypyshev/go-observability/lesson02/store"
 
 	"github.com/ekyoung/gin-nice-recovery"
 	"github.com/gin-gonic/gin"

@@ -8,7 +8,7 @@ import (
 	"github.com/elastic/go-elasticsearch/v8"
 	"github.com/elastic/go-elasticsearch/v8/esapi"
 	"github.com/google/uuid"
-	"github/ptsypyshev/go-observability/lesson02/l"
+	"github.com/ptsypyshev/go-observability/lesson02/l"
 	"reflect"
 )
 

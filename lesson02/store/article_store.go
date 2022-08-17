@@ -2,9 +2,9 @@ package store
 
 import (
 	"context"
-	"github/ptsypyshev/go-observability/lesson02/e"
-	"github/ptsypyshev/go-observability/lesson02/l"
-	"github/ptsypyshev/go-observability/lesson02/m"
+	"github.com/ptsypyshev/go-observability/lesson02/e"
+	"github.com/ptsypyshev/go-observability/lesson02/l"
+	"github.com/ptsypyshev/go-observability/lesson02/m"
 
 	"github.com/mitchellh/mapstructure"
 )

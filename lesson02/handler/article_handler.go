@@ -3,8 +3,8 @@ package handler
 import (
 	"context"
 	"github.com/gin-gonic/gin"
-	"github/ptsypyshev/go-observability/lesson02/m"
-	"github/ptsypyshev/go-observability/lesson02/store"
+	"github.com/ptsypyshev/go-observability/lesson02/m"
+	"github.com/ptsypyshev/go-observability/lesson02/store"
 	"net/http"
 )
 
