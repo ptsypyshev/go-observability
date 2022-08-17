@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github/ptsypyshev/go-observability/lesson03/app"
+	"github.com/ptsypyshev/go-observability/lesson03/app"
 	"log"
 )
 

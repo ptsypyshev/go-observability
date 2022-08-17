@@ -6,9 +6,9 @@ import (
 	"github.com/mitchellh/mapstructure"
 	"github.com/opentracing/opentracing-go"
 	"github.com/opentracing/opentracing-go/log"
-	"github/ptsypyshev/go-observability/lesson03/e"
-	"github/ptsypyshev/go-observability/lesson03/l"
-	"github/ptsypyshev/go-observability/lesson03/m"
+	"github.com/ptsypyshev/go-observability/lesson03/e"
+	"github.com/ptsypyshev/go-observability/lesson03/l"
+	"github.com/ptsypyshev/go-observability/lesson03/m"
 	"go.uber.org/zap"
 )
 

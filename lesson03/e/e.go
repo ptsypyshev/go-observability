@@ -10,7 +10,7 @@ import (
 	"github.com/google/uuid"
 	"github.com/opentracing/opentracing-go"
 	"github.com/opentracing/opentracing-go/log"
-	"github/ptsypyshev/go-observability/lesson03/l"
+	"github.com/ptsypyshev/go-observability/lesson03/l"
 	"go.uber.org/zap"
 	"reflect"
 )
